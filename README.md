@@ -26,6 +26,7 @@
 - [Anime 👾](https://github.com/suryakantamangaraj/AwesomeProfileReadme/blob/master/Anime.md)
 
 ## Resources
+Resources to make your Github profile readme awesome.
 
 ### Tools
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
