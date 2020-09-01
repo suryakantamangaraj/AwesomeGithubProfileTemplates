@@ -29,6 +29,8 @@
 Resources to make your Github profile readme awesome.
 
 ### Tools
+These are some innovative tools to make your profile stunning.
+
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://dev.to/ryanlanciaux/quick-github-profile-visit-counter-14en) - Add a 1990s style visitor counter with one line of markdown.
 - [Vists Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
