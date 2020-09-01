@@ -13,3 +13,4 @@
 - [reeha](https://github.com/syedareehaquasar)
 - [Praveen Kumar](https://github.com/praveenscience)
 - [Dipankar Pal](https://github.com/deep5050)
+- [Gustavo Soriano](https://github.com/gustavosoriano)
