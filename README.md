@@ -13,7 +13,7 @@
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/pulls"><img src="https://img.shields.io/github/issues-pr/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/issues"><img src="https://img.shields.io/github/issues/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Issues Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/suryakantamangaraj/GithubProfileReadmeTemplates?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/suryakantamangaraj/GithubProfileReadmeTemplates?color=2b9348" alt="License Badge"/></a>
 
 <i>Loved the project? Please support it to improve!</i>
 
