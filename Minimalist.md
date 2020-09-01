@@ -17,3 +17,4 @@
 - [Isha Gupta](https://github.com/Isha2103)
 - [Jason Lengstorf](https://github.com/jlengstorf)
 - [Pato Montecchiarini](https://github.com/pmontecchiarini)
+- [Pranjal Gupta](https://github.com/pranjal36)
