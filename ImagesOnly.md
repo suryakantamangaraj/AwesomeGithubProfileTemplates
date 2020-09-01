@@ -6,3 +6,4 @@
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 - [Claudio Wunder](https://github.com/ovflowd)
+- [dahhd](https://github.com/dahhd)
