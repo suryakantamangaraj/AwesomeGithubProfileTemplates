@@ -14,3 +14,4 @@
 - [Orhun](https://github.com/orhun/orhun)
 - [Aveek Saha](https://github.com/Aveek-Saha/Aveek-Saha)
 - [Ivelin Iliev](https://github.com/Iwi4a)
+- [Isha Gupta](https://github.com/Isha2103)
