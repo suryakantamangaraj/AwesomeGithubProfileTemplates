@@ -8,3 +8,4 @@
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
 - [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
+- [Aditya Vikram Singh](https://github.com/AVS1508)
