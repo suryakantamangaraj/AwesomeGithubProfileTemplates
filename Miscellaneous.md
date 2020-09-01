@@ -18,3 +18,4 @@
 - [Karthik-Nayak](https://github.com/KarthikNayak024)
 - [Piyush Suthar](https://github.com/piyushsuthar)
 - [Prasad Narkhede](https://github.com/p014ri5)
+- [Rachitt Shah](https://github.com/godslayer201)
