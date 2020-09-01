@@ -9,7 +9,6 @@
 <i>Hopefully this repo can serve as a source of inspiration for your Github Profile Readme!</i>
 
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/stargazers"><img src="https://img.shields.io/github/stars/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Stars Badge"/></a>
-<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/network/members"><img src="https://img.shields.io/github/forkssuryakantamangaraj/GithubProfileReadmeTemplates" alt="Forks Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/pulls"><img src="https://img.shields.io/github/issues-pr/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/issues"><img src="https://img.shields.io/github/issues/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Issues Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/suryakantamangaraj/GithubProfileReadmeTemplates?color=2b9348"></a>
