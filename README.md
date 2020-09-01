@@ -8,14 +8,12 @@
 
 <i>Hopefully this repo can serve as a source of inspiration for your Github Profile Readme!</i>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/stargazers"><img src="https://img.shields.io/github/stars/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Stars Badge"/></a>
+<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/network/members"><img src="https://img.shields.io/github/forkssuryakantamangaraj/GithubProfileReadmeTemplates" alt="Forks Badge"/></a>
+<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/pulls"><img src="https://img.shields.io/github/issues-pr/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/issues"><img src="https://img.shields.io/github/issues/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Issues Badge"/></a>
+<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/suryakantamangaraj/GithubProfileReadmeTemplates?color=2b9348"></a>
+<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/suryakantamangaraj/GithubProfileReadmeTemplates?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
