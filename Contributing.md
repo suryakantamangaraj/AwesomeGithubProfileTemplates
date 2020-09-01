@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-> The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed. Please carefully read everything in `Adding to this list`.
+> The pull request should have a useful title. Pull requests with `Update README.md` as title will be closed. Please carefully read everything in `Adding to this list`.
 
 ## Adding to this list
 
