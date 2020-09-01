@@ -30,13 +30,13 @@
 ### Tools
 
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
-- [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
+- [1990s style Visitor Counter](https://dev.to/ryanlanciaux/quick-github-profile-visit-counter-14en) - Add a 1990s style visitor counter with one line of markdown.
 - [Vists Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
 - [Laravel GitHub Profile Visit Counter](https://github.com/caneco/laravel-github-profile-view-counter) - Add on your Laravel project a quick-badge to count your profile visits.
-- [Dev Metrics in Readme](https://github.com/athul/waka-readme) - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
+- [Dev Metrics in Readme](https://github.com/athul/waka-readme) - Weekly Metrics on your Profile Readme
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [Current UTC time](https://github.com/jojoee/jojoee) - Example code of server that can serve dynamic content on GitHub profile
 - [Github Activity in README](https://github.com/jamesgeorge007/github-activity-readme) - Updates `README.md` with the recent GitHub activity of a user
