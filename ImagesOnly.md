@@ -7,4 +7,5 @@
 - [Daily Random Photo](https://github.com/dailyrandomphoto/dailyrandomphoto)
 - [Claudio Wunder](https://github.com/ovflowd)
 - [dahhd](https://github.com/dahhd)
-- [](https://github.com/leandrosimoes)
+- [Leandro Simões](https://github.com/leandrosimoes)
+- [Rafael de Oliveira Freitas](https://github.com/RafaelOFreitas)
