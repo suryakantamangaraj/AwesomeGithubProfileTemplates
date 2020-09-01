@@ -21,3 +21,4 @@
 - [Eana Hufwe](https://github.com/blueset)
 - [Israel Antonio Rosales Laguan](https://github.com/Israel-Laguan)
 - [Jaye Hernandez](https://github.com/jayehernandez)
+- [Monica Powell](https://github.com/M0nica)
