@@ -11,3 +11,4 @@
 - [Aditya Vikram Singh](https://github.com/AVS1508)
 - [Alfred Dagenais](https://github.com/alfreddagenais)
 - [reeha](https://github.com/syedareehaquasar)
+- [Praveen Kumar](https://github.com/praveenscience)
