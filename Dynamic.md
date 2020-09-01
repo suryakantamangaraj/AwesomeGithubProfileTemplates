@@ -13,3 +13,4 @@
 - [Ian Sebastian Mathew](https://github.com/iansmathew)
 - [Jacques Blom](https://github.com/jacques-blom)
 - [Oscar](https://github.com/blue-1ms)
+- [Vedant Jajoo](https://github.com/coderjojo)
