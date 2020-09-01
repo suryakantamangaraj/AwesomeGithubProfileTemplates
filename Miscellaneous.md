@@ -14,3 +14,5 @@
 - [Praveen Kumar](https://github.com/praveenscience)
 - [Dipankar Pal](https://github.com/deep5050)
 - [Gustavo Soriano](https://github.com/gustavosoriano)
+- [Joykishan Sharma](https://github.com/JoykishanSharma)
+- [Karthik-Nayak](https://github.com/KarthikNayak024)
