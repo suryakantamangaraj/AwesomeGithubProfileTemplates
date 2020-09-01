@@ -5,3 +5,6 @@
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Anish Sachdeva](https://github.com/anishLearnsToCode)
+- [Ayush Kumar](https://github.com/ayushkumar-25)
+- [Siddharth Belbase](https://github.com/sidbelbase)
+- [Sudipto Ghosh](https://github.com/sudiptog81)
