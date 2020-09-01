@@ -91,7 +91,7 @@ These are some video tutorials to guide you on how to make your Github readme pr
 
 ## Contribute
 
-Contributions are always welcome!
+Contributions are welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
 ## License
