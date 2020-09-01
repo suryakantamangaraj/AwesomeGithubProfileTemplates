@@ -20,3 +20,4 @@
 - [Pranjal Gupta](https://github.com/pranjal36)
 - [Raushan Kumar](https://github.com/raushan606)
 - [Vishwasa Navada K](https://github.com/vishwasnavadak)
+- [Shaan Khan](https://github.com/ShaanCoding)
