@@ -19,8 +19,9 @@
 
 #
 
-### Contents:
-- [Example Categories](#example-categories)
+### Contents
+- [Examples](#examples)
+  - [Categories](#categories)
 - [Resources](#resources)
   - [Tools](#tools)
   - [Articles](#articles)
@@ -28,7 +29,10 @@
 - [Contribute](#contribute)
 - [License](#license)
 
-## Example Categories
+## Examples
+A curated list of awesome Github Profile READMEs which will inspire you to make yours.
+
+### Categories
 - [Continuous Delivery 🔁](ContinuousDelivery.md)
 - [Game Play 🎮](GamePlay.md)
 - [Descriptive 🗒](Descriptive.md)
