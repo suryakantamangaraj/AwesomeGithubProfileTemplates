@@ -82,6 +82,11 @@ A curated list of innovative tools to make your profile stunning.
 - [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
 - [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
+- [profile_stack](https://github.com/Matt-Gleich/profile_stack) - GitHub Action to display your tech stack on a README
+- [GitHub Now](https://github.com/beyondcode/github-now) - Now pages for your README, Laravel app with support for Spotify and Google Calendar
+- [rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - GitHub Action that updates a section of a README from an RSS feed
+- [readme-guestbook](https://github.com/JasonEtco/readme-guestbook) - Web app that transforms a README into a guestbook
+- [readme-box](https://github.com/JasonEtco/readme-box) - Node.js helper for replacing a section of the contents of a README
 
 ### Articles
 These are some articles to guide you on how to make your Github readme profile and make that better.
