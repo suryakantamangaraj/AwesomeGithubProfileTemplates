@@ -11,3 +11,4 @@
 - [Anushka Verma](https://github.com/verma-anushka)
 - [ChegeBryan](https://github.com/ChegeBryan)
 - [Ian Sebastian Mathew](https://github.com/iansmathew)
+- [Jacques Blom](https://github.com/jacques-blom)
