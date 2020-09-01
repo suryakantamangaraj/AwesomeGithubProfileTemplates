@@ -26,3 +26,4 @@
 - [teoxoy](https://github.com/teoxoy/teoxoy)
 - [Aral Roca](https://github.com/aralroca/aralroca)
 - [codeSTACKr](https://github.com/codestackr/codestackr)
+- [Dipto Chakrabarty](https://github.com/diptochakrabarty)
