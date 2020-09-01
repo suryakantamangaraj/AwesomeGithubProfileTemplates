@@ -21,3 +21,4 @@
 - [Raushan Kumar](https://github.com/raushan606)
 - [Vishwasa Navada K](https://github.com/vishwasnavadak)
 - [Shaan Khan](https://github.com/ShaanCoding)
+- [Sukru Uzel](https://github.com/suzel)
