@@ -23,7 +23,7 @@
 - [GIFs 👻](https://github.com/suryakantamangaraj/AwesomeProfileReadme/blob/master/GIFs.md)
 - [Icons only ❄️](https://github.com/suryakantamangaraj/AwesomeProfileReadme/blob/master/IconsOnly.md)
 - [Images Only 🎭](https://github.com/suryakantamangaraj/AwesomeProfileReadme/blob/master/ImagesOnly.md)
-- [Anime 👾](https://github.com/suryakantamangaraj/AwesomeProfileReadme/blob/master/Anime.md)
+- [Anime 👾](Anime.md)
 
 ## Resources
 Resources to make your Github profile readme awesome.
