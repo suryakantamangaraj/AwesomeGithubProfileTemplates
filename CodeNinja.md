@@ -4,3 +4,4 @@
 - [Kiho](https://github.com/monkindey/monkindey)
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
+- [Anish Sachdeva](https://github.com/anishLearnsToCode)
