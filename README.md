@@ -3,7 +3,7 @@ It contains bunch of good examples of github profile readme along with some guid
 
 ### Contents:
   - [Categories](#categories)
-      - [Github Actions 🤖](#github-actions-)
+      - [Github Actions 🤖](https://github.com/suryakantamangaraj/AwesomeProfileReadme/blob/master/GithubActions.md)
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
