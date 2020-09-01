@@ -1,1 +1,8 @@
-
+- [Kirill Feschenko](https://github.com/xcaq/xcaq)
+- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
+- [Hemant Joshi](https://github.com/8bithemant/8bithemant)
+- [Kittinan](https://github.com/kittinan/kittinan)
+- [Andrew Novac](https://github.com/novatorem/novatorem)
+- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
+- [andyruwruw](https://github.com/andyruwruw/andyruwruw)
