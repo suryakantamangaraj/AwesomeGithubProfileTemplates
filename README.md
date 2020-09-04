@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://awesome.re/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/suryakantamangaraj/GithubProfileReadmeTemplates?color=brightgreen" alt="License Badge"/></a>
 </a><br>
 
 <i>A curated list of awesome Github Profile Readme Templates</i>
@@ -12,7 +13,6 @@
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/pulls"><img src="https://img.shields.io/github/issues-pr/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/issues"><img src="https://img.shields.io/github/issues/suryakantamangaraj/GithubProfileReadmeTemplates" alt="Issues Badge"/></a>
 <a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/suryakantamangaraj/GithubProfileReadmeTemplates?color=2b9348"></a>
-<a href="https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/suryakantamangaraj/GithubProfileReadmeTemplates?color=brightgreen" alt="License Badge"/></a>
 
 <i>Loved the project? Please support it to improve!</i>
 
